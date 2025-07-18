@@ -1,4 +1,4 @@
-IMPORTANT! to view the project, you need to download it first. For some reason github is unable to open the html file.
+IMPORTANT! to view the project, you need to download the file (group_assignment3.html) first. For some reason github is unable to open the html file.
 
 This report was a group project for my Topics in statistics: data analysis university course, where we were given a data set without any explanation on what it contained or how it
 should be interpreted. The only rule for the assignments for the course was that we had to return a 10 page report. Everything else was left under our discretion.
